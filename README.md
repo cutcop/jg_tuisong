@@ -7,7 +7,7 @@ Third party message push
 ## Install
 
 ```
-$ composer require cutcop/push
+$ composer require cutcop/jgtuisong
 ```
 
 ## Demo
@@ -30,6 +30,6 @@ $audience = [
     'alias' => ['13888888888']
 ];
 
-$push = new cutcop\Push\JPush($appKey, $masterSecret);
+$push = new Cutcop\Jgtuisong\JPush($appKey, $masterSecret);
 $push->push($alert, $extras, $platform, $audience);
 ```

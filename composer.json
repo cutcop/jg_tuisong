@@ -1,5 +1,5 @@
 {
-    "name": "cutcop/push",
+    "name": "cutcop/jgtuisong",
     "description": "Third party message push",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cutcop\\Push\\": "src/"
+            "Cutcop\\Jgtuisong\\": "src/"
         }
     }
 }

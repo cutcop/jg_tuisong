@@ -1,6 +1,6 @@
 <?php
 
-namespace Cutcop\Push;
+namespace Cutcop\Jgtuisong;
 
 /**
  * JPush
